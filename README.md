@@ -2,6 +2,10 @@
 
 A authenticated network monitoring tool for legitimate network administration and security auditing purposes. This tool implements proper authentication, logging, and secure scanning features for authorized network monitoring.
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.6+-green.svg)
+![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)
+
 ## Features
 
 - User authentication with secure password hashing
@@ -84,10 +88,6 @@ Options:
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request
-
-## License
-
-[Add appropriate license]
 
 ## Disclaimer
 
