@@ -29,7 +29,7 @@ pip install -r requirements.txt
 3. Set up the initial admin user:
 
 ```python
-from network_monitor import Authentication
+from main import Authentication
 auth = Authentication()
 auth.register_user('admin', 'secure_password', 'admin')
 ```
@@ -38,7 +38,7 @@ auth.register_user('admin', 'secure_password', 'admin')
 
 Basic usage:
 ```bash
-python network_monitor.py -u username -ip 192.168.1.0/24
+python main.py -u username -ip 192.168.1.0/24
 ```
 
 Options:
