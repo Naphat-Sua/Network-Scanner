@@ -22,12 +22,6 @@ A authenticated network monitoring tool for legitimate network administration an
 pip install -r requirements.txt
 ```
 
-Required packages:
-- scapy
-- pyjwt
-- cryptography
-- sqlite3
-
 ## Setup
 
 1. Clone the repository
